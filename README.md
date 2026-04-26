@@ -3,10 +3,13 @@ This repository contains code for placing futures orders on MEXC using the offic
 
 Please note:
 By using this method, you WILL pay trading fees, even on pairs that are advertised as having 0% commission.
+
 💡 Alternative Solution
 If you are looking for a way to place futures orders on MEXC without paying fees, feel free to contact me:
+
 💬Telegram: 
 @ottoctopussy
+
 🛠️ Custom Development
 You can also order the development of any project related to trading, automation, or integrations.
 
@@ -16,6 +19,7 @@ Data collectors & analytics tools
 Telegram bots & dashboards
 
 For custom development inquiries, contact me on Telegram:
+
 💬Telegram: 
 @ottoctopussy
 
