@@ -8,7 +8,7 @@ By using this method, you WILL pay trading fees, even on pairs that are advertis
 If you are looking for a way to place futures orders on MEXC without paying fees, feel free to contact me:
 
 💬Telegram: 
-@ottoctopussy
+@Sokotix
 
 🛠️ Custom Development
 You can also order the development of any project related to trading, automation, or integrations.
@@ -21,7 +21,7 @@ Telegram bots & dashboards
 For custom development inquiries, contact me on Telegram:
 
 💬Telegram: 
-@ottoctopussy
+@Sokotix
 
 📦 What’s Included
 Examples of order placement via official MEXC API
